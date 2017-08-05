@@ -14,7 +14,7 @@
   <link href="https://v4-alpha.getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
 
   <!-- Custom styles for this template -->
-  <link href="/css/master.css" rel="stylesheet">
+  <link href="/css/app.css" rel="stylesheet">
 </head>
 
 <body>
